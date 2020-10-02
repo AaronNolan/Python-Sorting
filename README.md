@@ -1,6 +1,6 @@
 # Python-Sorting
 
-This Project uses 6 sorting algoithms to sort a list of varied length. 
+This Project uses 6 sorting algoithms to sort a list of varied length and compare results. 
 Each sort is:
               1) Timed, 
               2) Shown in a table and 
